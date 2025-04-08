@@ -56,3 +56,6 @@ for i in range(1,n+1):
 # n = int(input('입력 : '))
 # for i in range(1,n+1):
 #     print(*)
+
+
+print('hello')
